@@ -9,6 +9,9 @@ __pycache__/
 #Udacity
 .udacity-pa/
 .ipynb_checkpoints/
+*.zip
+*.json
+
 
 # Distribution / packaging
 .Python
