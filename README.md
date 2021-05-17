@@ -10,4 +10,10 @@ This repository contains my solutions to the [Udacity's Deep Learning Nanodegree
 
 
 ## Projects
-### 1. [Predicting bike sharing](../project-bikesharing)
+### 1. [Predicting bike sharing](project-bikesharing)
+
+To predict the number of bikes required so that we don't lose the customer for having few number of bikes or vice-versa, when the number of bikes are more but there are'nt enough people to rent them.
+
+#### Results
+![Training and Validation Loss after tuning Hyperparameters](project-bikesharing/PredictingBikeSharing.png)
+
