@@ -17,3 +17,10 @@ To predict the number of bikes required so that we don't lose the customer for h
 #### Results
 ![Training and Validation Loss after tuning Hyperparameters](project-bikesharing/PredictingBikeSharing.png)
 
+
+### 2. [Dog breed classification](project-dog-classification)
+To predict the breed of the dog and also to check what kind of dog breed a human resemble.
+
+#### Results
+![](project-dog-classification/DogBreedClassification.png)
+
