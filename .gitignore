@@ -12,6 +12,13 @@ __pycache__/
 *.zip
 *.json
 
+#Custom
+project-dog-classification/DogBreedClassification.png
+project-dog-classification/images/new/
+report.html
+sentiment-rnn/
+word2vec-embeddings/
+
 
 # Distribution / packaging
 .Python
